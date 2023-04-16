@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bereket</h1>
 <h3 align="center">KBTU | student</h3>
 
-- 📫 How to reach me **b_yergali@outlook.com**
+img align="right" alt="Coding" width="400" src="https://i.gifer.com/Ao.gif"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

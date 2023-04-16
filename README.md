@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bereket</h1>
 <h3 align="center">KBTU | student</h3>
 
-[![Bereket's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Bereket's GitHub stats](https://github-readme-stats.vercel.app/api?username=beereket)](https://github.com/beereket/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

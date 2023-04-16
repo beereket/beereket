@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bereket</h1>
 <h3 align="center">KBTU | student</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/Ao.gif">
+<img align="right" alt="Coding" width="400" src="[https://i.gifer.com/Ao.gif](https://i.imgur.com/dLtT7u6.gif)">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

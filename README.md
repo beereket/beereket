@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bereket</h1>
 <h3 align="center">KBTU | student</h3>
 
-<img align="right" alt="Coding" width="540" src="[https://i.gifer.com/Ao.gif](https://i.imgur.com/dLtT7u6.gif)">
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bereket yergali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bereket yergali" height="30" width="40" /></a>

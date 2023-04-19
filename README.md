@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bereket</h1>
 <h3 align="center">KBTU | student</h3>
 
-[![Bereket's GitHub stats](https://github-readme-stats.vercel.app/api?username=beereket)](https://github.com/beereket/github-readme-stats)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bereket yergali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bereket yergali" height="30" width="40" /></a>

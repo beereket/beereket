@@ -1,5 +1,4 @@
-# 💫 About Me:
-KBTU  | Student<br>
+# 💫 Bereket Yergali:
 
 
 ## 🌐 Socials:

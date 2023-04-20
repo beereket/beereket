@@ -1,4 +1,6 @@
-# 💫 Bereket Yergali:
+#  Bereket Yergali:
+<img src="https://advice.j2c.com/wp-content/uploads/sites/13/ezgif.com-optimize-9-2.gif" width="512px"/>
+
 
 
 ## 🌐 Socials:

@@ -4,7 +4,7 @@ Welcome to my portfolio! You can view it live at [bereket-yergali.netlify.app](h
 
 ## About Me
 
-I am a Full-Stack Developer based in Almaty, Kazakhstan 📍. I'm currently a third-year student at KBTU, passionate about full-stack development. I'm immersed in creating pet projects to hone my skills.
+I am a Developer based in Almaty, Kazakhstan 📍. I'm currently a third-year student at KBTU, passionate about full-stack development. I'm immersed in creating pet projects to hone my skills.
 
 ## Contact
 

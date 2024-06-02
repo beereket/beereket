@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my portfolio! You can view it live at [bereket-yergali.netlify.app](https://bereket-yergali.netlify.app).
+Welcome to my portfolio! You can view it live at [bereket-yergali](https://bereket-yergali.netlify.app).
 
 ## About Me
 
